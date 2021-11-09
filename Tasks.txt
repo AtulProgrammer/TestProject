@@ -1,0 +1,36 @@
+Tasks f
+
+BAQ -
+
+Create a BAQ that will display invoices against cutomers
+Tables to used - Invchead, Customer
+Add proper joins between tables
+Condition - 
+Only display customers who belongs to country USA
+Invcoices should be starting from 2020 Year
+
+Dashboard - 
+
+Create a dashboard that will be display Part transaction details
+Tables to used - Part and PartTran
+Deploy dashboard to Menu
+
+Customization -
+
+Create a simple Employee form on Table UD20
+Fields will be
+Key1 - EmployeeID
+Character01 - Employee name
+Number01 - Age
+Shortchar01 - Nationality
+Checkbox01 - Gender
+Create a menu for the form
+
+BPM - 
+
+Create a Pre - Processing BPM on Customer Form
+Business Object - Customer
+Method - Update
+
+Display details of customer in a messageBox using Custom
+Code >> Access values using tt table
