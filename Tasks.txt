@@ -17,6 +17,11 @@ Deploy dashboard to Menu
 
 Customization -
 
+10.0.0.10 grc-e10app
+10.0.0.10 epicor.grandrapidschair.com
+10.0.0.25 grc-e10ssrs
+10.0.0.21 grcdev01
+
 Create a simple Employee form on Table UD20
 Fields will be
 Key1 - EmployeeID
